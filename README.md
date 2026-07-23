@@ -5,10 +5,6 @@ It goes from the absolute basics (`SELECT`) through joins, window functions,
 CTEs, stored procedures, triggers, indexing, and finishes with two full
 portfolio projects modeled on real data-analyst workflows.
 
-Every lesson runs cleanly against the included setup scripts, several bugs in the original queries have been
-fixed, and new lessons/exercises/projects have been added to make it a
-complete, standalone course.
-
 ## Who this is for
 
 Anyone learning SQL for data analysis - no prior database experience
