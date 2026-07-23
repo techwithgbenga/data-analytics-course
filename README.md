@@ -5,9 +5,7 @@ It goes from the absolute basics (`SELECT`) through joins, window functions,
 CTEs, stored procedures, triggers, indexing, and finishes with two full
 portfolio projects modeled on real data-analyst workflows.
 
-Originally based on Alex The Analyst's MySQL YouTube series, this version has
-been rewritten, reorganized, and extended: every lesson runs cleanly against
-the included setup scripts, several bugs in the original queries have been
+Every lesson runs cleanly against the included setup scripts, several bugs in the original queries have been
 fixed, and new lessons/exercises/projects have been added to make it a
 complete, standalone course.
 
